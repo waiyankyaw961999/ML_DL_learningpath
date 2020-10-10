@@ -158,10 +158,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.camera.py" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.camera" />
-      <item itemvalue="Python.model" />
       <item itemvalue="Python.klj" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.model" />
       <item itemvalue="Python.testing" />
     </list>
     <recent_temporary>

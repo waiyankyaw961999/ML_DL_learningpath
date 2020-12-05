@@ -1,4 +1,4 @@
-##Building Deep Neural Networks for Fashion-MNIST
+# Building Deep Neural Networks for Fashion-MNIST
 
 `Fashion-MNIST` is a dataset of [Zalando](https://jobs.zalando.com/tech/)'s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
 
